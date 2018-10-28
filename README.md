@@ -16,3 +16,9 @@
   <li>SKLearn: library for data analysis and data mining</li>
 </ul>
 </p>
+<h2>Screenshots:</h2>
+<p>
+  <img src="https://github.com/SurajChinna/SVM-for-classification-using-social-media-ads/blob/master/Screenshot%20(20).png" />
+  <br />
+  <img src="https://github.com/SurajChinna/SVM-for-classification-using-social-media-ads/blob/master/Screenshot%20(19).png" />
+</p>
